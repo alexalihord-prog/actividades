@@ -1,4 +1,0 @@
-Unidad 1
-
-En esta unidad vimos los principios basicos de la programacion como  el binario de las computadoras, 
-la logica y algoritmos que se necesitan para dar instrucciones a la computadora
