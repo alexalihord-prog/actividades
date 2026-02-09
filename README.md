@@ -1,0 +1,1 @@
+La licencia MIT es una licencia de software libre, sumamente permisiva y breve, que permite a cualquier persona usar, modificar, vender y distribuir tu código, siempre que se incluya el aviso de copyright original. Es ideal para proyectos de código abierto que buscan máxima adopción sin restricciones complicadas. 
