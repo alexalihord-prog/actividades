@@ -1,0 +1,7 @@
+Unidad 2
+
+En esta unidad iniciamos nuestros primeros codigos de programacion en Js, fue un reto bastante grande ya que 
+no cuento con experiencia pero luego de leer mucho y ver videos logre entender lo basico de la programacion con js.
+
+Tambien vimos tipos de datos y operadores, estructuras de control condicionales, tipos de datos y basicamente de lo que se
+estructura la programacion

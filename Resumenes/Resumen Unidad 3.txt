@@ -1,0 +1,6 @@
+Resumen unidad 3
+
+Aqui vimos los Video controladores de versiones, utilizando como el principal programa GitHub,
+basicamente es para guardar nuestro trabajo ya culminado y dejar versiones de los programas para que estos
+tengan respaldo si en caso hay alguna falla o error de alguna indole, asi permitiendoles regresar al punto guardado 
+sin tener que borrar todo  e iniciar de nuevo.
